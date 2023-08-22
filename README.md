@@ -27,6 +27,7 @@
 ### Other Social Medias
 <a href="https://www.linkedin.com/in/isadora-ferreira-guerra-648b25239/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<a><a>
+<a>
+  <a>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 <a>
