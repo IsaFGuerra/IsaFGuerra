@@ -11,7 +11,8 @@
 ### Github Analytics
 <div> 
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/IsaFGuerra?cardType=github&preferLogin=true)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/IsaFGuerra?cardType=github&preferLogin=true)](https://git.io/awesome-stats-card) 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaFGuerra&layout=compact"/>
 
 </div>
 
