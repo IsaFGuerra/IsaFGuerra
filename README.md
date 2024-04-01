@@ -1,9 +1,8 @@
 
 ## Hi, I'm Isadora!
 
-- 💻 Back-End Developer Intern
-- 💬 Currently learning Web Development
-- 👩‍💻 Undergraduate student in Information System - PUCRS
+- 💻 IT Consultant Intern
+- 👩‍💻 Undergraduate student in Information System - PUCRS and Business Administration - UFRGS
 
   
 
