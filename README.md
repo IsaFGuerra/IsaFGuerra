@@ -4,7 +4,12 @@
 - 💻 Software Developer Intern - LIS/HP
 - 👩‍💻 Undergraduate student in Information System - PUCRS and Business Administration - UFRGS
 
-  
+##
+
+  🥇 1st place - Poatek Data Science Hackathon
+
+  🥈 2nd place - PUCRS Software Engineering Hackathon
+
 
 
 ### Github Analytics
@@ -15,13 +20,18 @@
 
 </div>
 
-### ⚙️ Tools
+
+
+### Tools
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+
+
+
 
 
 ### Other Social Medias
