@@ -6,10 +6,11 @@
 
 ##
 
-  🥇 1st place - Poatek Data Science Hackathon
+  🥇 1st place - Poatek Data Science Hackathon 2023
 
-  🥈 2nd place - PUCRS Software Engineering Hackathon
+  🥈 2nd place - PUCRS Software Engineering Hackathon 2023
 
+  🥉 3rd place - HP International Hackathon 2024
 
 
 ### Github Analytics
