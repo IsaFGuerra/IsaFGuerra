@@ -2,7 +2,7 @@
 ## Hi, I'm Isadora!
 
 - 💻 Software Developer Intern - LIS/HP
-- 👩‍💻 Undergraduate student in Information System - PUCRS and Business Administration - UFRGS
+- 👩‍💻 Undergraduate student in Software Engineer - PUCRS and Business Administration - UFRGS
 
 ##
 
